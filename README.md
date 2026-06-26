@@ -28,7 +28,7 @@
 
 ## 🧠 About
 
-CS student at **BRAC University** working across healthcare AI, NLP, and computer vision. Interests span medical-imaging models, Bangla language processing, and biologically inspired / neuromorphic machine learning. Currently running a self-directed CV curriculum through Kaggle competitions.
+CS Graduate from **BRAC University** working across healthcare AI, NLP, and computer vision. Interests span medical-imaging models, Bangla language processing, and biologically inspired / neuromorphic machine learning. Currently running a self-directed CV curriculum through Kaggle competitions.
 
 ```text
 Focus      : medical imaging, Bangla NLP, brain-plausible / neuromorphic ML
@@ -94,7 +94,6 @@ Stack      : PyTorch - timm - scikit-learn - HuggingFace - OpenCV
 
 | 🔬 Research | 🛠️ Applied |
 | --- | --- |
-| Medical-imaging models (segmentation + classification) | CV breadth via Kaggle: classification -> noisy/imbalanced -> segmentation |
 | Bangla NLP with classical + transformer methods | Histopathologic Cancer Detection, Cassava Leaf Disease |
 | Brain-plausible / neuromorphic learning | Reproducible training pipelines (timm / albumentations) |
 
