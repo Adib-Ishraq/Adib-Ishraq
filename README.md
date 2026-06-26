@@ -32,9 +32,8 @@ CS Graduate from **BRAC University** working across healthcare AI, NLP, and comp
 
 ```text
 Focus      : medical imaging, Bangla NLP, brain-plausible / neuromorphic ML
-Building   : segmentation & classification pipelines, transformer-based text models
-Currently  : CV via Kaggle — classification -> noisy/imbalanced -> segmentation
-Stack      : PyTorch - timm - scikit-learn - HuggingFace - OpenCV
+Building   : segmentation & classification pipelines, transformer-based text models, NLP research
+Stack      : PyTorch - scikit-learn - HuggingFace - OpenCV
 ```
 
 ---
