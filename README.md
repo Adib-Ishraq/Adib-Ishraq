@@ -74,6 +74,8 @@ Stack      : PyTorch - scikit-learn - HuggingFace - OpenCV
 | Classical ML vs Transformer comparison | Embeddings · classical ML · neural baselines |
 | ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![sklearn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-154F5B?style=flat&logo=python&logoColor=white) |
 
+|ResearchVault- A fully secured & encrypted platform for Researchers|
+| ![Flask, Node js] https://github.com/Adib-Ishraq/ResearchVault |
 ---
 
 ## 📊 GitHub Stats
