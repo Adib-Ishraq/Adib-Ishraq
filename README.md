@@ -76,6 +76,7 @@ Stack      : PyTorch - scikit-learn - HuggingFace - OpenCV
 
 |ResearchVault- A fully secured & encrypted platform for Researchers|
 | ![Flask, Node js] https://github.com/Adib-Ishraq/ResearchVault |
+| --- | --- |
 ---
 
 ## 📊 GitHub Stats
