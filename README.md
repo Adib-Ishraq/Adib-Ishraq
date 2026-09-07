@@ -28,7 +28,7 @@
 
 ## 🧠 About
 
-CS Graduate from **BRAC University** working across healthcare AI, NLP, and computer vision. Interests span medical-imaging models, Bangla language processing, and biologically inspired / neuromorphic machine learning. Currently running a self-directed CV curriculum through Kaggle competitions.
+CS Graduate from **BRAC University** working across healthcare AI, NLP, and computer vision. Interests span medical-imaging models, Bangla language processing, and biologically inspired / neuromorphic machine learning. See all my projects in REPOSITORIES section.
 
 ```text
 Focus      : medical imaging, Bangla NLP, brain-plausible / neuromorphic ML
