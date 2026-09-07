@@ -102,14 +102,7 @@ Languages  : Python - Java - C
 
 ---
 
-## 🌱 Currently Working On
 
-| 🔬 Research | 🛠️ Applied |
-| --- | --- |
-| Bangla NLP with classical + transformer methods | Histopathologic Cancer Detection, Cassava Leaf Disease |
-| Brain-plausible / neuromorphic learning | Reproducible training pipelines (timm / albumentations) |
-
----
 
 <!-- ===================== CONTRIBUTION SNAKE (needs Action, see chat) ===================== -->
 <p align="center">
